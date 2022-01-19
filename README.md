@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 📝 I regularly write articles on [winking324.github.io](winking324.github.io)
+- 📝 I regularly write articles on [winking324.github.io](https://winking324.github.io)
 
 - 📫 How to reach me **winking324@gmail.com**
 
