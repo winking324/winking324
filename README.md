@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winking324&label=Profile%20views&color=0e75b6&style=flat" alt="winking324" /> </p>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go**, **JS/TS** and **Electron/QML**
 
 - 📝 I regularly write articles on [winking324.github.io](https://winking324.github.io)
 
