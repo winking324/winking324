@@ -27,10 +27,10 @@
   <a href="https://www.atlassian.com/software/bitbucket" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://knative.dev/docs/" target="_blank" rel="noreferrer"> <img src="https://landscape.cncf.io/logos/knative.svg" alt="knative" width="40" height="40"/> </a> 
-  <a href="https://goharbor.io/" target="_blank" rel="noreferrer"> <img src="https://landscape.cncf.io/logos/harbor.svg" alt="harbor" width="40" height="40"/> </a> 
+  <a href="https://knative.dev/docs/" target="_blank" rel="noreferrer"> <img src="https://knative.dev/docs/images/logo/rgb/knative-logo-rgb.png" alt="knative" width="40" height="40"/> </a> 
+  <a href="https://goharbor.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/raw/main/projects/harbor/icon/color/harbor-icon-color.png" alt="harbor" width="40" height="40"/> </a> 
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-  <a href="https://konghq.com/" target="_blank" rel="noreferrer"> <img src="https://landscape.cncf.io/logos/kong.svg" alt="kong" width="40" height="40"/> </a> 
+  <a href="https://konghq.com/" target="_blank" rel="noreferrer"> <img src="https://docs.konghq.com/assets/images/icons/kong-gradient.svg" alt="kong" width="40" height="40"/> </a> 
   <a href="https://uwsgi-docs.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uwsgi/uwsgi-original.svg" alt="uwsgi" width="40" height="40"/> </a> 
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/> </a> 
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a> 
@@ -39,9 +39,9 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://landscape.cncf.io/logos/prometheus.svg" alt="prometheus" width="40" height="40"/> </a>
-  <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer"> <img src="https://landscape.cncf.io/logos/influx-data.svg" alt="influxdb" width="40" height="40"/> </a>
-  <a href="https://www.zabbix.com/cn" target="_blank" rel="noreferrer"> <img src="https://landscape.cncf.io/logos/zabbix.svg" alt="zabbix" width="40" height="40"/> </a> 
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://prometheus.io/assets/prometheus_logo_grey.svg" alt="prometheus" width="40" height="40"/> </a>
+  <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/winking324/winking324/refs/heads/main/influxdb-logo.svg" alt="influxdb" width="40" height="40"/> </a>
+  <a href="https://www.zabbix.com/cn" target="_blank" rel="noreferrer"> <img src="https://assets.zabbix.com/dist/images/logo.fd87efa6da9bed3fd8c9.svg" alt="zabbix" width="40" height="40"/> </a> 
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
   <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
