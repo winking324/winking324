@@ -79,8 +79,8 @@ const winking324 = {
 ### `> git log --oneline --graph`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=winking324&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00ff41" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winking324&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=winking324&theme=github_dark" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=winking324&theme=github_dark" alt="Top languages by repository" />
 </div>
 
 <div align="center">
