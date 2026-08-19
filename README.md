@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=%24+whoami;winking324+%7C+Naive+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=%24+whoami;winking324+%7C+Naive+Engineer)](https://github.com/DenverCoder1/readme-typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=winking324&label=visitors&color=00ff41&style=flat-square)
 
@@ -76,20 +76,14 @@ const winking324 = {
 
 ---
 
-### `> git log --oneline --graph`
+### `> git status --short`
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=winking324&theme=github_dark" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=winking324&theme=github_dark" alt="Top languages by repository" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=winking324&theme=github-dark-blue&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=winking324&theme=github-compact&hide_border=true&area=true&color=00ff41&line=00ff41&point=ffffff" />
-</div>
+```text
+M  cloud-native infrastructure
+M  observability & automation
+A  developer tooling
+?? whatever looks fun
+```
 
 ---
 
