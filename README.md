@@ -19,6 +19,27 @@ const winking324 = {
 
 ---
 
+### `> ls products/`
+
+**[Orignosis · 源智网](https://orignosis.com/)** — Products and apps I build.
+
+<table>
+  <tr>
+    <td width="96" align="center">
+      <a href="https://vibe-pacenotes.orignosis.com/">
+        <img src="assets/vibe-pacenotes.png" width="72" alt="路过说一声 app icon" />
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://vibe-pacenotes.orignosis.com/">路过说一声</a></strong><br />
+      Quiet, direction-aware driving reminders for iPhone and Apple Watch.<br />
+      <sub>iOS · Apple Watch · Direction-aware · Privacy-first</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### `> cat tech_stack.md`
 
 **`// Languages`**
